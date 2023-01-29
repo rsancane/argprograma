@@ -1,0 +1,22 @@
+
+
+body {
+background-color: #f8f8f8;
+font-family: Century gothic;
+font-weight: bold;
+text-align: justify;
+margin-left: 1em;
+Border: 3%;
+}
+#nombre {
+    font-size: 120% ;
+    color: darkgrey 
+}
+
+img {
+border-radius: 50%
+
+}
+#datoscont {
+    display: none;
+}
